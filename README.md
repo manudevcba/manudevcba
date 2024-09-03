@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="<blockquote class="imgur-embed-pub" lang="en" data-id="9Wzz6KM"><a href="https://imgur.com/9Wzz6KM">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"/> 
+   <img align="center" width="200" src="[![kite-chibi-removebg-preview.png](https://i.postimg.cc/8CvN5hj8/kite-chibi-removebg-preview.png)](https://postimg.cc/bGqKVSxL)" 
    <h3 align="center">¡Hey 👋! Soy manudev 👨🏻‍💻</h3>
 </p>
 
