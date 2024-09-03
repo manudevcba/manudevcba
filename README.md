@@ -39,14 +39,3 @@
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   
-  </br></br>
-  
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-  </div>
-  </div>
-
-------
-Credit: [zillastar](https://github.com/zillastar)
-
-Last Edited on: 12/11/2022
