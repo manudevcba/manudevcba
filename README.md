@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://i.imgur.com/KOOXQqt"/> 
+   <img align="center" width="200" src="[https://i.imgur.com/KOOXQqt](https://imgur.com/9Wzz6KM)"/> 
    <h3 align="center">¡Hey 👋! Soy manudev 👨🏻‍💻</h3>
 </p>
 
