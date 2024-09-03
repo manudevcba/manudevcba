@@ -1,10 +1,15 @@
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
+   <h3 align="center">¡Hey 👋! Soy manudev 👨🏻‍💻</h3>
+</p>
+
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-<h2> / about me /</h2>
+<h2> / Sobre mí /</h2>
   
-- ⭐ currently working on **web-development**
+- ⭐ trainee/junion on **web-development**
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
   
