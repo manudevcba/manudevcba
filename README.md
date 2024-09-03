@@ -4,7 +4,8 @@
 
    <h3 align="center">¡Hey 👋! Soy ManuDev bienvenido a mi perfil de github! 👨🏻‍💻</h3>
 </p>
-
+<br>
+<br>
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
