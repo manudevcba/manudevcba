@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src=![kite_chibi-removebg-preview](https://github.com/user-attachments/assets/35509eff-19a5-4bc1-ab8c-47bc11a364f9)
+   <img align="center" width="200" src= "kite_chibi-removebg-preview.png"
 
 
    <h3 align="center">¡Hey 👋! Soy manudev 👨🏻‍💻</h3>
