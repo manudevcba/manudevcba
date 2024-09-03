@@ -1,5 +1,6 @@
 <p align="center" width="300">
-   <img align="center" width="200" src= "kite_chibi-removebg-preview.png"
+   <img align="center" width="200" src= "kite_chibi-removebg-preview.png" <br>  
+
 
    <h3 align="center">¡Hey 👋! Soy ManuDev bienvenido a mi perfil de github! 👨🏻‍💻</h3>
 </p>
