@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="[![kite-chibi-removebg-preview.png](https://i.postimg.cc/8CvN5hj8/kite-chibi-removebg-preview.png)](https://postimg.cc/bGqKVSxL)" 
+   <img align="center" width="200" src="[[![kite-chibi-removebg-preview.png](https://i.postimg.cc/8CvN5hj8/kite-chibi-removebg-preview.png)](https://postimg.cc/bGqKVSxL)](https://postimg.cc/bGqKVSxL)" 
    <h3 align="center">¡Hey 👋! Soy manudev 👨🏻‍💻</h3>
 </p>
 
