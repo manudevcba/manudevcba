@@ -1,8 +1,7 @@
 <p align="center" width="300">
    <img align="center" width="200" src= "kite_chibi-removebg-preview.png"
 
-
-   <h3 align="center">¡Hey 👋! Soy manudev 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! Soy **manudev** bienvenido a mi perfil de github! 👨🏻‍💻</h3>
 </p>
 
 <div>
@@ -12,8 +11,8 @@
 <h2> / Sobre mí /</h2>
   
 - ⭐ trainee/junion on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
+- 💀 estudiando para ser **backend developer**
+- 👾 ex Pro-Player de League of Legends
   
 <h2> / current skills / </h2>
   
