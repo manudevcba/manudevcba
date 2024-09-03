@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="[https://i.ibb.co/Nppt1pg/kite-chibi-removebg-preview.png](http://imgfz.com/i/CtLIhTl.png)" />
+   <img align="center" width="200" src="https://i.imgur.com/KOOXQqt.png"/> 
    <h3 align="center">¡Hey 👋! Soy manudev 👨🏻‍💻</h3>
 </p>
 
