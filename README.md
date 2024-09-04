@@ -12,7 +12,7 @@
 
 <h2> / Sobre mí /</h2>
   
-- ⭐ trainee/junior on **web-development**
+- ⭐ trainee/junior on **web-dev**
 - 💀 estudiando para ser **backend developer**
 - 👾 ex Pro-Player de League of Legends
   
