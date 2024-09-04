@@ -26,7 +26,7 @@
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
   
   - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logoSize=auto&logo=pythonanywhere&logoColor=white" /> 
+    <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
     <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
   
 - <h4> frameworks & libraries </h4>
