@@ -12,8 +12,8 @@
 
 <h2> / Sobre mí /</h2>
   
-- ⭐ trainee/junior en *DEVELOPER**
-- 💀 estudiando para ser **react developer**
+- ⭐ trainee/junior en **DEVELOPER**
+- 💀 estudiando para ser **Full Stack Developer**
 - 👾 ex Pro-Player de League of Legends
 - 🎮 amante de los videojuegos
 - 🎸 guitar lover
